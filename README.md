@@ -11,7 +11,7 @@ As shown in the table below, the total budget for this district where there are 
 ![District Smmary](https://github.com/Krystal313/School_District_Analysis/blob/e2b2880ded87ad5525a6a233fa7cab07435c6c93/Resources/District%20Smmary.png)
 
 2. How is the school summary affected?
-
+As shown in the table below, there are two types of school in this district: charter and district. Based on the data, there are less students in charter schools than district schools; therefore, the overall passing rate can be signficantly higher than district school. For example: Wilson High School (charter school) has total of 2283 students and the overall passing rate is 90.58% vs. Ford High School (district school) has total of 2739 students and the overall passing rate is 53.20% 
 
 ![School Summary](https://github.com/Krystal313/School_District_Analysis/blob/a61750c8b381e695c9f81f17718c204255b99678/Resources/School%20Smmary.png)
 
