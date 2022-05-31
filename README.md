@@ -10,8 +10,10 @@ As shown in the table below, the total budget for this district where there are 
 
 ![District Smmary](https://github.com/Krystal313/School_District_Analysis/blob/e2b2880ded87ad5525a6a233fa7cab07435c6c93/Resources/District%20Smmary.png)
 
-2.How is the school summary affected?
+2. How is the school summary affected?
 
+
+![School Summary](https://github.com/Krystal313/School_District_Analysis/blob/a61750c8b381e695c9f81f17718c204255b99678/Resources/School%20Smmary.png)
 
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
