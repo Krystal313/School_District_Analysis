@@ -8,7 +8,7 @@ The purpose of this project is to analyze school disctrict data and school perfo
 1. How is the district summary affected?
 As shown in the table below, the total budget for this district where there are 15 schools with total 39,170 students is $24,649,428.00. Although the percentage of pass math and reading are 74.8% and 85.7, the percentage of overall passing is only 64.9%. This can mean that some students may not receive a score.
 
-![District Smmary](Resources/District Smmary.png)
+![District Smmary](https://github.com/Krystal313/School_District_Analysis/blob/e2b2880ded87ad5525a6a233fa7cab07435c6c93/Resources/District%20Smmary.png)
 
 2.How is the school summary affected?
 
