@@ -21,8 +21,9 @@ As shown in the table below, there are two types of school in this district: cha
 The percentage of passing rate for math, reading and overall scroes would be among the other Charter schools given there were missing scores for the 9th grader at Thomas High School which this wasn't the excat total number of students who have received a grades. As result, this may caused the passing rate at THS to be inaccurate. 
 
 4. How does replacing the ninth-grade scores affect the following:
-Replacing the math and reading scores by grade would brought significant improvement tto the overall passing rate from 65.08% to 90.63%
+Replacing the math and reading scores by grade would brought significant improvement to the overall passing rate from 65.08% to 90.63%. However, scores by school spending, school size and school type did not affect the overall passing rate as the data had missing information as mnetioned above and this would not provide an accurate result. 
 
 ![School Summary-Replaced](https://github.com/Krystal313/School_District_Analysis/blob/188fdcb6f3707248c83122f69bf9f86a32f50a1e/Resources/School%20Smmary%20-%20Replaced.png)
 
 ## Summary
+Given there were some missing scores for math and reading for the 9th graders in Thomas High School, all data for 9th graders had to be dropped and this has shown nearly 25% difference. With this significant differnce of percentage rate, we may not agree the accurate of the report for Thomas High School and this may lead to budget cut in the future planning by DOE. 
