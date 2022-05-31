@@ -23,5 +23,6 @@ The percentage of passing rate for math, reading and overall scroes would be amo
 4. How does replacing the ninth-grade scores affect the following:
 Replacing the math and reading scores by grade would brought significant improvement tto the overall passing rate from 65.08% to 90.63%
 
+![School Summary-Replaced](https://github.com/Krystal313/School_District_Analysis/blob/188fdcb6f3707248c83122f69bf9f86a32f50a1e/Resources/School%20Smmary%20-%20Replaced.png)
 
 ## Summary
